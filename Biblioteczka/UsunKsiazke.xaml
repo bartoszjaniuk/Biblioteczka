@@ -1,0 +1,41 @@
+﻿<Window x:Class="Biblioteczka.UsunKsiazke"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Biblioteczka"
+        mc:Ignorable="d"
+        Title="Biblioteczka" Height="500" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="obrazki/book.jpg" Stretch="Fill"/>
+        </Grid.Background>
+        <StackPanel>
+
+            <Grid HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="800" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <Grid.Background>
+                    <SolidColorBrush Color="White" Opacity="0.1"/>
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="75*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0*"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button Style="{StaticResource ExitButton}" Content="X" HorizontalAlignment="Left" Margin="738,0,-1,10" Grid.RowSpan="2" Width="42" BorderThickness="0" FontFamily="Trajan Pro" Click="Button_Click_1" Grid.Column="1" RenderTransformOrigin="0.575,0.44">
+                    <Button.Background>
+                        <SolidColorBrush Color="#FFDDDDDD" Opacity="0"/>
+                    </Button.Background>
+                </Button>
+            </Grid>
+
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Label Content="Usun książkę" FontFamily="Trajan Pro" FontSize="20" HorizontalAlignment="Center" />
+                <ComboBox  x:Name="listaKsiazekDoUsuniecia" IsTextSearchEnabled="True" IsEditable="True"/>
+                <Button Style="{StaticResource LoadButton}" x:Name="usunKsiazkeButton" Content="Usuń" Click="usunKsiazkeButton_Click" Width="177" Margin="10" Height="40"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

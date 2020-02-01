@@ -1,0 +1,148 @@
+{
+  "Ksiazka": [
+    {
+      "Tytul": "Wiedźmin. Sezon Burz",
+      "Autor": "Andrzej Sapkowski",
+      "Gatunek": "Fantastyka",
+      "RokWydania": 2014,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\wiedzmin.jpg",
+      "Dostepnosc": 1,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Harry Potter i Kamień Filozoficzny",
+      "Autor": "J.K. Rowling",
+      "Gatunek": "Fantastyka",
+      "RokWydania": 1997,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\hp1.jpg",
+      "Dostepnosc": 5,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Harry Potter i więzień Azkabanu",
+      "Autor": "J.K. Rowling",
+      "Gatunek": "Fantastyka",
+      "RokWydania": 2003,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\hp2.jpg",
+      "Dostepnosc": 0,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Mały Książe",
+      "Autor": "Antoine de Saint-Exupéry",
+      "Gatunek": "Fantastyka",
+      "RokWydania": 1947,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\littleprince.jpg",
+      "Dostepnosc": 1,
+      "Opis": "Mały Książę – powiastka filozoficzna dla dzieci, autorstwa Antoine’a de Saint-Exupéry’ego, wydana w 1943 w Nowym Jorku w wydawnictwie „Reynal & Hitchcock”; przetłumaczona na ponad 300 języków i dialektów, sprzedana w ponad 140 milionach egzemplarzy, należy do klasyki światowej literatury."
+    },
+    {
+      "Tytul": "Hobbit. Niezwykła podróż",
+      "Autor": "J.R.R. Tolkien",
+      "Gatunek": "Fantastyka",
+      "RokWydania": 2012,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\hobbit.jpg",
+      "Dostepnosc": 0,
+      "Opis": "Bilbo Baggins to hobbit, który lubi wygodne, pozbawione niespodzianek życie, rzadko podróżując dalej niż do swojej piwnicy. Jego błogi spokój zostaje jednak zakłócony, gdy pewnego na jego progu pojawia się czarodziej Gandalf z gromadą krasnoludów, by porwać go na prawdziwą przygodę. Wszyscy wyruszają po wielkie skarby strzeżone przez Smauga Wspaniałego, wielkiego i bardzo niebezpiecznego smoka. Bilbo niechętnie dołącza do ich misji, nie zdając sobie sprawy, że w drodze do Samotnej Góry spotka zarówno magiczny pierścień, jak i przerażające stworzenie zwane Gollumem."
+    },
+    {
+      "Tytul": "Władca Pierścieni.Drużyna Pierścienia",
+      "Autor": "J.R.R. Tolkien",
+      "Gatunek": "Fantastyka",
+      "RokWydania": 1954,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\lotr1.jpg",
+      "Dostepnosc": 0,
+      "Opis": "Bilbo Baggins to hobbit, który lubi wygodne, pozbawione niespodzianek życie, rzadko podróżując dalej niż do swojej piwnicy. Jego błogi spokój zostaje jednak zakłócony, gdy pewnego na jego progu pojawia się czarodziej Gandalf z gromadą krasnoludów, by porwać go na prawdziwą przygodę. Wszyscy wyruszają po wielkie skarby strzeżone przez Smauga Wspaniałego, wielkiego i bardzo niebezpiecznego smoka. Bilbo niechętnie dołącza do ich misji, nie zdając sobie sprawy, że w drodze do Samotnej Góry spotka zarówno magiczny pierścień, jak i przerażające stworzenie zwane Gollumem."
+    },
+    {
+      "Tytul": "To",
+      "Autor": "Stephen King",
+      "Gatunek": "Horror",
+      "RokWydania": 1986,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\to.jpg",
+      "Dostepnosc": 10,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Łowca Snów",
+      "Autor": "Stephen King",
+      "Gatunek": "Horror",
+      "RokWydania": 2001,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\lowca.jpg",
+      "Dostepnosc": 2,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Becoming. Moja historia",
+      "Autor": "Michelle Obama",
+      "Gatunek": "Biografia",
+      "RokWydania": 2019,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\beckoming.jpg",
+      "Dostepnosc": 5,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Cristiano Ronaldo ",
+      "Autor": "Guillem Balagué",
+      "Gatunek": "Biografia",
+      "RokWydania": 2015,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\cr7.jpg",
+      "Dostepnosc": 10,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Zanim się pojawiłeś",
+      "Autor": "Jojo Moyes",
+      "Gatunek": "Dramat",
+      "RokWydania": 2012,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\mebeforeyou.jpg",
+      "Dostepnosc": 0,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Kiedy odszedłeś",
+      "Autor": "Jojo Moyes",
+      "Gatunek": "Dramat",
+      "RokWydania": 2015,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\whenyouleft.jpg",
+      "Dostepnosc": 2,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Dziady cz.III",
+      "Autor": "Adam Mickiewicz",
+      "Gatunek": "Dramat",
+      "RokWydania": 1822,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\dziady.jpg",
+      "Dostepnosc": 6,
+      "Opis": "Tutaj Opis"
+    },
+    {
+      "Tytul": "Romeo i Julia",
+      "Autor": "William Szekspir",
+      "Gatunek": "Dramat",
+      "RokWydania": 1597,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\romeo.jpg",
+      "Dostepnosc": 4,
+      "Opis": "Romeo i Julia – dramat angielskiego pisarza Williama Szekspira napisany we wczesnym stadium jego kariery. Przedstawia historię tragicznej miłości dwojga młodych ludzi, którzy stali się wzorcami romantycznych kochanków. Historia toczy się w Weronie i Mantui."
+    },
+    {
+      "Tytul": "Makbet",
+      "Autor": "William Shakespeare",
+      "Gatunek": "Tragedia",
+      "RokWydania": 1606,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\makbet.jpg",
+      "Dostepnosc": 2,
+      "Opis": "Makbet – tragedia Williama Shakespeare’a napisana około roku 1606, należy do najczęściej wystawianych i adaptowanych sztuk szekspirowskich, jest również najkrótszą tragedią jego autorstwa."
+    },
+    {
+      "Tytul": "Drakula",
+      "Autor": "Bram Stoker",
+      "Gatunek": "Horror",
+      "RokWydania": 1897,
+      "Okladka": "C:\\Users\\Asus\\Desktop\\Pulpit\\Projekt Biblioteczka WPF\\okladki\\drakula.jpg",
+      "Dostepnosc": 3,
+      "Opis": "Jonathan Harker, młody, naiwny prawnik, wyrusza w podróż do Transylwanii na spotkanie z hrabią Draculą, który przymierza się do przyjazdu do Anglii. Na miejscu wychodzi na jaw, że ekscentryczny arystokrata nie jest tym, kim się wydaje być, a jego plany mają krwawy, zbrodniczy wymiar. Życie Jonathana zawisa na włosku. Tymczasem w Anglii Mina niecierpliwie wyczekuje powrotu narzeczonego…"
+    }
+  ]
+}

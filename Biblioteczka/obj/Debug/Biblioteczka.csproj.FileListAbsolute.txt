@@ -1,0 +1,167 @@
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\bin\Debug\Biblioteczka.exe.config
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\bin\Debug\Biblioteczka.exe
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\bin\Debug\Biblioteczka.pdb
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.csprojAssemblyReference.cache
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\App.g.cs
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.cache
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.lref
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.g.resources
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.Properties.Resources.resources
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.csproj.GenerateResource.cache
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.exe
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.pdb
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\DodajKsiazke.g.cs
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\DodajKsiazke.baml
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.csproj.CopyComplete
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\BazaKsiazek.g.cs
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\BazaKsiazek.baml
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\UsunKsiazke.g.cs
+C:\Users\Asus\source\Studia\Biblioteczka\Biblioteczka\obj\Debug\UsunKsiazke.baml
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\bin\Debug\Biblioteczka.exe.config
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\bin\Debug\Biblioteczka.exe
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\bin\Debug\Biblioteczka.pdb
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.csprojAssemblyReference.cache
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\BazaKsiazek.g.cs
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\DodajKsiazke.g.cs
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\UsunKsiazke.g.cs
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\App.g.cs
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.cache
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.lref
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\BazaKsiazek.baml
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\DodajKsiazke.baml
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\UsunKsiazke.baml
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.g.resources
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.Properties.Resources.resources
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.csproj.GenerateResource.cache
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.csproj.CopyComplete
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.exe
+C:\Users\Asus\source\Studia\Projekt - Biblioteczka\Biblioteczka\obj\Debug\Biblioteczka.pdb
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.exe.config
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.exe
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.pdb
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csprojAssemblyReference.cache
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazek.g.cs
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\DodajKsiazke.g.cs
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\UsunKsiazke.g.cs
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\App.g.cs
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.cache
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.lref
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazek.baml
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\DodajKsiazke.baml
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\UsunKsiazke.baml
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.g.resources
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.Properties.Resources.resources
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.GenerateResource.cache
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.CopyComplete
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.exe
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.pdb
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazekWyszukiwanie.g.cs
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazekWyszukiwanie.baml
+C:\Users\Asus\source\Studia\Projekt -Library\Biblioteczka\obj\Debug\App.baml
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.exe.config
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.exe
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.pdb
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazek.g.cs
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazekWyszukiwanie.g.cs
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\DodajKsiazke.g.cs
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\UsunKsiazke.g.cs
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.cache
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.lref
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\App.baml
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazek.baml
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazekWyszukiwanie.baml
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\DodajKsiazke.baml
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\UsunKsiazke.baml
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.g.resources
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.Properties.Resources.resources
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.CopyComplete
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.exe
+C:\Users\Asus\Desktop\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.pdb
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.exe.config
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.exe
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.pdb
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csprojAssemblyReference.cache
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazek.g.cs
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazekWyszukiwanie.g.cs
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\DodajKsiazke.g.cs
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\MainWindow.g.cs
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\UsunKsiazke.g.cs
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\App.g.cs
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.cache
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.lref
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\App.baml
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazek.baml
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazekWyszukiwanie.baml
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\DodajKsiazke.baml
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\MainWindow.baml
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\UsunKsiazke.baml
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.g.resources
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.Properties.Resources.resources
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.GenerateResource.cache
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.CoreCompileInputs.cache
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.CopyComplete
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.exe
+C:\Users\Archeon\Desktop\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.pdb
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.exe
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.pdb
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.exe.config
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.exe
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Biblioteczka.pdb
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.dll
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.pdb
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\bin\Debug\Newtonsoft.Json.xml
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csprojAssemblyReference.cache
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazek.g.cs
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazekWyszukiwanie.g.cs
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\DodajKsiazke.g.cs
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\MainWindow.g.cs
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\UsunKsiazke.g.cs
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\App.g.cs
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.cache
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka_MarkupCompile.lref
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\App.baml
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazek.baml
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\BazaKsiazekWyszukiwanie.baml
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\DodajKsiazke.baml
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\MainWindow.baml
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\UsunKsiazke.baml
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.g.resources
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.Properties.Resources.resources
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.GenerateResource.cache
+D:\Pulpit\Portfolio\C#\WPF\Projekt -Library\Biblioteczka\obj\Debug\Biblioteczka.csproj.CopyComplete

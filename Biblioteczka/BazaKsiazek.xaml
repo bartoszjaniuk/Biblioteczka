@@ -1,0 +1,123 @@
+﻿<Window x:Class="Biblioteczka.BazaKsiazek"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Biblioteczka"
+        mc:Ignorable="d"
+        Title="Biblioteczka" Height="720" Width="1000" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="obrazki/book-open-flat.png" WindowStyle="None">
+    <Window.DataContext>
+        <local:Ksiazki/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="obrazki/book.jpg" Stretch="Fill"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="527*"/>
+            <ColumnDefinition Width="315*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="11*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid x:Name="PanelGora" Opacity="0.9" Grid.ColumnSpan="2" Margin="0,45,0,591" Grid.RowSpan="3">
+            <Grid.Background>
+                <SolidColorBrush Color="White" Opacity="0.9"/>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <WrapPanel Grid.Column="0" HorizontalAlignment="Center">
+                <Label FontWeight="Bold" FontFamily="Nirmala UI">Wybierz gatunek</Label>
+                <ComboBox  x:Name="ListaKsiazekListBox" IsTextSearchEnabled="True" IsEditable="True" SelectionChanged="ListaKsiazekListBox_SelectionChanged">
+                </ComboBox>
+            </WrapPanel>
+            <WrapPanel  Grid.Column="1" x:Name="ListaKsiazekPanel" Visibility="Visible" HorizontalAlignment="Center">
+                <Label FontWeight="Bold">Spis książek</Label>
+                <ComboBox x:Name="ListaKsiazek" SelectionChanged="ListaKsiazek_SelectionChanged" >
+                </ComboBox>
+            </WrapPanel>
+        </Grid>
+        <Grid Grid.Row="2" x:Name="PanelSrodek" Opacity="0.9" Grid.ColumnSpan="2" Margin="0,18,0,0">
+            <Grid.Background>
+                <SolidColorBrush Color="White" Opacity="0.9"/>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="93*" ></ColumnDefinition>
+                <ColumnDefinition Width="373*"/>
+                <ColumnDefinition Width="326*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column ="2" x:Name="PanelSrodkowyPrawaStrona" Background="White" Opacity="0.9" Visibility="Hidden">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="45*"></RowDefinition>
+                    <RowDefinition Height="216*"></RowDefinition>
+                    <RowDefinition Height="190*"/>
+                    <RowDefinition Height="181*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="2" Margin="0,190,0,0" Grid.RowSpan="2">
+                    <Label  x:Name="opisLabel" Content="Opis: " VerticalAlignment="Top" HorizontalAlignment="Center" FontWeight="Bold" FontSize="17"/>
+                    <TextBlock  x:Name="opisKsiazkiTextBlock" VerticalAlignment="Center" HorizontalAlignment="Left" TextWrapping="Wrap" Margin="5"/>
+                </StackPanel>
+                <Label x:Name="tytulKsiazkiLabel" Content="Tytuł:" FontSize="24"  FontWeight="Bold" HorizontalAlignment="Center"/>
+                <Grid x:Name="PanelPrawo" Margin="0,45,0,0.429" Grid.RowSpan="3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition Width="2*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0" x:Name="PanelPrawoLewy">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Row="0" x:Name="autorLabel" Content="Autor: " VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="17"/>
+                        <Label Grid.Row="1" x:Name="gatunekLabel" Content="Gatunek: " VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="17"/>
+                        <Label Grid.Row="2" x:Name="rokWydaniaLabel" Content="Rok wydania: " VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="17"/>
+                        <Label Grid.Row="3" x:Name="dostepnoscLabel" Content="Dostepnosc: " VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="17"/>
+                    </Grid>
+                    <Grid Grid.Column="1" x:Name="PanelPrawoPrawy">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label  Grid.Row="0" x:Name="autorKsiazkiLabel" Content="Autor: " VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="15" FontFamily="Nirmala UI" FontWeight="Bold" Foreground="Red" />
+                        <Label Grid.Row="1" x:Name="gatunekKsiazkiLabel" Content="Gatunek: " VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Nirmala UI" FontSize="15" FontWeight="Bold" Foreground="#FF323232"/>
+                        <Label Grid.Row="2" x:Name="rokWydaniaKsiazkiLabel" Content="Rok wydania: " VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Nirmala UI" FontSize="15" FontWeight="Bold" Foreground="#FF323232"/>
+                        <Label Grid.Row="3" x:Name="dostepnoscKsiazkiLabel" Content="Dostepnosc: " VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="15" FontFamily="Nirmala UI" FontWeight="Bold" Foreground="#FF323232"/>
+
+                    </Grid>
+                </Grid>
+            </Grid>
+            <Image Grid.Column ="0"  x:Name="okladkaKsiazkiIMG"  Height="600" Width="350" Grid.ColumnSpan="2" Margin="58,16"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="45" VerticalAlignment="Top" Width="1000" Grid.ColumnSpan="2" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="75*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <SolidColorBrush Color="White" Opacity="0.9"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Button Style="{StaticResource ExitButton}" Content="X" HorizontalAlignment="Left" Margin="932,0,0,17" Grid.RowSpan="2" Width="42" BorderThickness="0" FontFamily="Trajan Pro" Click="Button_Click_1" RenderTransformOrigin="1.556,0.819" Grid.Column="1">
+                <Button.Background>
+                    <SolidColorBrush Color="#FFDDDDDD" Opacity="0"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+
+    </Grid>
+
+
+
+</Window>
